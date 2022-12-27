@@ -496,6 +496,51 @@ const desktopModeProps = {
     "Div149": {
       "callbacks": {}
     },
+    "Div151": {
+      "callbacks": {}
+    },
+    "Div152": {
+      "callbacks": {}
+    },
+    "Flex171": {
+      "callbacks": {}
+    },
+    "Div153": {
+      "callbacks": {}
+    },
+    "Div155": {
+      "callbacks": {}
+    },
+    "Flex172": {
+      "callbacks": {}
+    },
+    "Flex176": {
+      "callbacks": {}
+    },
+    "Flex177": {
+      "callbacks": {}
+    },
+    "Flex178": {
+      "callbacks": {}
+    },
+    "Div157": {
+      "callbacks": {}
+    },
+    "Div156": {
+      "callbacks": {}
+    },
+    "Flex179": {
+      "callbacks": {}
+    },
+    "Flex180": {
+      "callbacks": {}
+    },
+    "Flex181": {
+      "callbacks": {}
+    },
+    "Flex182": {
+      "callbacks": {}
+    },
     "TextBox3": {
       "custom": {
         "text": "I design products "
@@ -2431,6 +2476,230 @@ const desktopModeProps = {
               "type": "internal",
               "url": "/"
             }
+          }
+        ]
+      }
+    },
+    "TextBox291": {
+      "custom": {
+        "text": "Frequently asked questions"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox292": {
+      "custom": {
+        "text": "F A Q"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox293": {
+      "custom": {
+        "text": "What type of projects do you take on?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image91": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icons8-down-arrow-32.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image95": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icons8-down-arrow-32.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox297": {
+      "custom": {
+        "text": "What is your hourly rate?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image96": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icons8-down-arrow-32.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox298": {
+      "custom": {
+        "text": "What time-zone do you work in?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image97": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icons8-down-arrow-32.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox299": {
+      "custom": {
+        "text": "What is the typical timeline for a project?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox300": {
+      "custom": {
+        "text": "What if I need help after the project is complete?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image98": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icons8-down-arrow-32.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox301": {
+      "custom": {
+        "text": "What metrics do you use to measure success?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image99": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icons8-down-arrow-32.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox302": {
+      "custom": {
+        "text": "What does your design process look like?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image100": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icons8-down-arrow-32.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image101": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icons8-down-arrow-32.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox303": {
+      "custom": {
+        "text": "How do you charge for projects ?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
           }
         ]
       }
