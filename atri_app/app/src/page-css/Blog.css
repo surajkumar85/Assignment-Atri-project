@@ -1,0 +1,482 @@
+.p-Blog.Flex106 {
+display: flex;
+align-items: center;
+justify-content: center;
+margin-bottom: 12px;
+}
+.p-Blog.Flex105 {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-right: ;
+padding-left: ;
+box-sizing: border-box;
+height: 80px;
+width: 1200px;
+margin-left: ;
+margin-top: 12px;
+}
+.p-Blog.Flex104 {
+display: flex;
+row-gap: ;
+column-gap: 28px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 18px;
+}
+.p-Blog.Flex103 {
+display: flex;
+column-gap: 8px;
+cursor: pointer;
+}
+.p-Blog.Flex120 {
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: #000000;
+}
+.p-Blog.Div103 {
+width: 1200px;
+}
+.p-Blog.Flex121 {
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 120px;
+padding-bottom: 120px;
+box-sizing: border-box;
+}
+.p-Blog.Flex122 {
+display: flex;
+width: 900px;
+flex-direction: column;
+box-sizing: border-box;
+row-gap: 64px;
+}
+.p-Blog.Flex123 {
+display: flex;
+box-sizing: border-box;
+align-items: stretch;
+}
+.p-Blog.Div104 {
+width: 70%;
+background-color: #000000;
+box-sizing: border-box;
+}
+.p-Blog.Div105 {
+width: 100%;
+box-sizing: border-box;
+padding-bottom: 24px;
+border-bottom-width: 1px;
+border-bottom-color: #727272;
+border-bottom-style: none;
+margin-bottom: ;
+padding-top: 24px;
+padding-left: 16px;
+height: ;
+}
+.p-Blog.Flex124 {
+display: flex;
+align-items: center;
+column-gap: 12px;
+cursor: pointer;
+color: #ffffff;
+}
+.p-Blog.Flex126 {
+display: flex;
+box-sizing: border-box;
+align-items: stretch;
+}
+.p-Blog.Div107 {
+width: 70%;
+background-color: #000000;
+box-sizing: border-box;
+}
+.p-Blog.Div106 {
+width: 100%;
+box-sizing: border-box;
+padding-bottom: 24px;
+border-bottom-width: 1px;
+border-bottom-color: #727272;
+border-bottom-style: none;
+margin-bottom: ;
+padding-top: 24px;
+padding-left: 16px;
+height: ;
+}
+.p-Blog.Flex125 {
+display: flex;
+align-items: center;
+column-gap: 12px;
+cursor: pointer;
+color: #ffffff;
+}
+.p-Blog.Flex128 {
+display: flex;
+box-sizing: border-box;
+align-items: stretch;
+}
+.p-Blog.Div109 {
+width: 70%;
+background-color: #000000;
+box-sizing: border-box;
+}
+.p-Blog.Div108 {
+width: 100%;
+box-sizing: border-box;
+padding-bottom: 24px;
+border-bottom-width: 1px;
+border-bottom-color: #727272;
+border-bottom-style: none;
+margin-bottom: ;
+padding-top: 24px;
+padding-left: 16px;
+height: ;
+}
+.p-Blog.Flex127 {
+display: flex;
+align-items: center;
+column-gap: 12px;
+cursor: pointer;
+color: #ffffff;
+}
+.p-Blog.Flex130 {
+display: flex;
+box-sizing: border-box;
+align-items: stretch;
+}
+.p-Blog.Div111 {
+width: 70%;
+background-color: #000000;
+box-sizing: border-box;
+}
+.p-Blog.Div110 {
+width: 100%;
+box-sizing: border-box;
+padding-bottom: 24px;
+border-bottom-width: 1px;
+border-bottom-color: #727272;
+border-bottom-style: none;
+margin-bottom: ;
+padding-top: 24px;
+padding-left: 16px;
+height: ;
+}
+.p-Blog.Flex129 {
+display: flex;
+align-items: center;
+column-gap: 12px;
+cursor: pointer;
+color: #ffffff;
+}
+.p-Blog.Flex132 {
+display: flex;
+box-sizing: border-box;
+align-items: stretch;
+}
+.p-Blog.Div113 {
+width: 70%;
+background-color: #000000;
+box-sizing: border-box;
+}
+.p-Blog.Div112 {
+width: 100%;
+box-sizing: border-box;
+padding-bottom: 24px;
+border-bottom-width: 1px;
+border-bottom-color: #727272;
+border-bottom-style: none;
+margin-bottom: ;
+padding-top: 24px;
+padding-left: 16px;
+height: ;
+}
+.p-Blog.Flex131 {
+display: flex;
+align-items: center;
+column-gap: 12px;
+cursor: pointer;
+color: #ffffff;
+}
+.p-Blog.Flex167 {
+display: flex;
+padding-top: 120px;
+padding-bottom: 120px;
+flex-direction: column;
+align-items: center;
+background-color: #000000;
+row-gap: 80px;
+box-sizing: border-box;
+}
+.p-Blog.Div144 {
+width: 1200px;
+box-sizing: border-box;
+padding-top: 120px;
+padding-bottom: 120px;
+}
+.p-Blog.Flex166 {
+display: flex;
+width: 100%;
+align-items: flex-start;
+justify-content: space-between;
+box-sizing: border-box;
+color: #ffffff;
+}
+.p-Blog.Div142 {
+box-sizing: border-box;
+width: 40%;
+}
+.p-Blog.Flex165 {
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.p-Blog.Div139 {
+;
+}
+.p-Blog.Div140 {
+;
+}
+.p-Blog.Div141 {
+;
+}
+.p-Blog.Div143 {
+width: 60%;
+box-sizing: border-box;
+}
+.p-Blog.TextBox168 {
+font-family: IBM Plex Sans;
+font-size: 28px;
+font-weight: 600;
+float: none;
+cursor: pointer;
+}
+.p-Blog.TextBox164 {
+cursor: pointer;
+}
+.p-Blog.TextBox165 {
+cursor: pointer;
+}
+.p-Blog.TextBox166 {
+cursor: pointer;
+}
+.p-Blog.TextBox167 {
+cursor: pointer;
+}
+.p-Blog.Image66 {
+;
+}
+.p-Blog.TextBox163 {
+box-sizing: content-box;
+}
+.p-Blog.TextBox193 {
+color: #9d9d9d;
+box-sizing: border-box;
+font-family: IBM Plex Sans;
+padding-top: 16px;
+padding-bottom: 16px;
+}
+.p-Blog.Image75 {
+width: 30%;
+}
+.p-Blog.TextBox195 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 28px;
+margin-bottom: 32px;
+}
+.p-Blog.TextBox196 {
+color: #a7a7a7;
+font-family: IBM Plex Sans;
+font-weight: 400;
+margin-bottom: 24px;
+}
+.p-Blog.TextBox194 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 18px;
+}
+.p-Blog.Image76 {
+width: 30%;
+}
+.p-Blog.TextBox198 {
+color: #a7a7a7;
+font-family: IBM Plex Sans;
+font-weight: 400;
+margin-bottom: 24px;
+}
+.p-Blog.TextBox199 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 28px;
+margin-bottom: 32px;
+}
+.p-Blog.TextBox197 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 18px;
+}
+.p-Blog.Image77 {
+width: 30%;
+}
+.p-Blog.TextBox201 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 28px;
+margin-bottom: 32px;
+}
+.p-Blog.TextBox202 {
+color: #a7a7a7;
+font-family: IBM Plex Sans;
+font-weight: 400;
+margin-bottom: 24px;
+}
+.p-Blog.TextBox200 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 18px;
+}
+.p-Blog.Image78 {
+width: 30%;
+}
+.p-Blog.TextBox204 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 28px;
+margin-bottom: 32px;
+}
+.p-Blog.TextBox205 {
+color: #a7a7a7;
+font-family: IBM Plex Sans;
+font-weight: 400;
+margin-bottom: 24px;
+}
+.p-Blog.TextBox203 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 18px;
+}
+.p-Blog.Image79 {
+width: 30%;
+}
+.p-Blog.TextBox207 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 28px;
+margin-bottom: 32px;
+}
+.p-Blog.TextBox208 {
+color: #a7a7a7;
+font-family: IBM Plex Sans;
+font-weight: 400;
+margin-bottom: 24px;
+}
+.p-Blog.TextBox206 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 18px;
+}
+.p-Blog.TextBox275 {
+font-family: IBM Plex Sans;
+font-size: 54px;
+font-weight: 700;
+margin-bottom: 120px;
+padding-bottom: ;
+line-height: 40px;
+text-align: left;
+color: #95627cff;
+}
+.p-Blog.TextBox276 {
+font-family: IBM Plex Sans;
+font-size: 54px;
+font-weight: 700;
+margin-bottom: 24px;
+padding-bottom: ;
+line-height: 40px;
+text-align: left;
+color: #ffffff;
+}
+.p-Blog.TextBox263 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 500;
+margin-bottom: 24px;
+cursor: pointer;
+}
+.p-Blog.TextBox264 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 500;
+margin-bottom: 24px;
+cursor: pointer;
+}
+.p-Blog.TextBox265 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 500;
+cursor: pointer;
+}
+.p-Blog.TextBox266 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 500;
+margin-bottom: 24px;
+cursor: pointer;
+}
+.p-Blog.TextBox267 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 500;
+margin-bottom: 24px;
+cursor: pointer;
+}
+.p-Blog.TextBox268 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 500;
+cursor: pointer;
+}
+.p-Blog.TextBox269 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 500;
+cursor: pointer;
+}
+.p-Blog.TextBox270 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 500;
+margin-bottom: 24px;
+cursor: pointer;
+}
+.p-Blog.TextBox271 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 500;
+margin-bottom: 24px;
+cursor: pointer;
+}
+.p-Blog.TextBox272 {
+color: #b3b3b3;
+font-family: IBM Plex Sans;
+font-size: 16px;
+font-weight: 600;
+}
+.p-Blog.TextBox273 {
+color: #b3b3b3;
+font-family: IBM Plex Sans;
+font-size: 16px;
+margin-bottom: 12px;
+}
+.p-Blog.TextBox274 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-size: 24px;
+margin-bottom: 12px;
+cursor: pointer;
+}
